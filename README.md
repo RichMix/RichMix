@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichMix aka @Chopp_Sueyy on IG, Twitter, Tik_tok and all other fun forms of Social Media.
-- 👀 I’m interested in building apps, NFTs and custom websites and interactive pages!
+- 👀 I’m interested in building apps, NFTs and custom websites and interactive pages
 - 🌱 I’m currently learning digital illusrtations/graphics as well as learning Python
-- 💞️ I’m looking to collaborate on Anything creative with like-minded individuals!
+- 💞️ I’m looking to collaborate on Anything creative with like-minded individuals
 - 📫 How to reach me - dopecanvas@gmail.com, visualgraffix@yahoo.com
 
 Some things I am working on are:
