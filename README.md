@@ -7,7 +7,7 @@
 Some things I am working on are:
 1) www.visualgraffix.com
 2) www.cutcrew.com  
-3) www.thepiggybanl.family
+3) www.thepiggybank.family
 4) HeartOfThree
 5) In school learning computer programming! Learning Python, Javascript, Rust, & React right now!
 
