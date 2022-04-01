@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RichMix aka @Chopp_Sueyy on IG, Twitter, Tik_tok and all other fun forms of Social Media.
+- 👋 Hi, I’m @RichMix aka @Chopp_Sueyy on Twitter & IG
 - 👀 I’m interested in building apps, NFTs and custom websites and interactive pages
 - 🌱 I’m currently learning digital illusrtations/graphics as well as learning Python
 - 💞️ I’m looking to collaborate on Anything creative with like-minded individuals
