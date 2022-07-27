@@ -6,10 +6,10 @@
 
 Some things I am working on are:
 1) www.visualgraffix.com
-2) www.cutcrew.com  
+2) www.cutscrew.com  
 3) www.thepiggybank.family
-4) HeartOfThree
-5) In school learning computer programming! Learning Python, Javascript, Rust, & React right now!
+4) Admitted for UCLA extension in blockchain tech
+5) Building as much as possible
 
 <!---
 RichMix/RichMix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
